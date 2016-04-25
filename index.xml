@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mesia Huey</title>
-    <link>http://mesiahuey.com/</link>
+    <link>http://mesiahuey.github.io/</link>
     <description>Recent content on Mesia Huey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Apr 2016 15:19:40 -0600</lastBuildDate>
-    <atom:link href="http://mesiahuey.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mesiahuey.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Making of &#34;Let Down Your... Beard??&#34;</title>
-      <link>http://mesiahuey.com/portfolio/making-of-let-down-your-beard/</link>
+      <link>http://mesiahuey.github.io/portfolio/making-of-let-down-your-beard/</link>
       <pubDate>Sun, 24 Apr 2016 15:19:40 -0600</pubDate>
       
-      <guid>http://mesiahuey.com/portfolio/making-of-let-down-your-beard/</guid>
+      <guid>http://mesiahuey.github.io/portfolio/making-of-let-down-your-beard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>http://mesiahuey.com/contact/</link>
+      <link>http://mesiahuey.github.io/contact/</link>
       <pubDate>Sun, 24 Apr 2016 15:12:20 -0600</pubDate>
       
-      <guid>http://mesiahuey.com/contact/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://mesiahuey.com/css/contact.css&#34;&gt;
+      <guid>http://mesiahuey.github.io/contact/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://mesiahuey.github.io/css/contact.css&#34;&gt;
 
 &lt;div class=&#34;page_title&#34;&gt;contact&lt;/div&gt;
-&lt;a id=&#34;small_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;tiny_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/bio&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;medium_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/links&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;large_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/portfolio&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;small_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;tiny_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/bio&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;medium_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/links&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;large_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/portfolio&#34;&gt;&lt;/a&gt;
 &lt;div id=&#34;contact_content&#34; class=&#34;background_filter&#34;&gt;
 	&lt;p&gt;&lt;span style=&#34;font-size:20px&#34;&gt;&lt;span style=&#34;font-family:trebuchet ms,helvetica,sans-serif&#34;&gt;If you like what you&amp;#39;ve seen and have a project you&amp;#39;d like to hire me for, please send an email my way at:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 	&lt;p style=&#34;margin-left:40px&#34;&gt;&lt;span style=&#34;font-size:26px&#34;&gt;&lt;span style=&#34;font-family:trebuchet ms,helvetica,sans-serif&#34;&gt;&lt;span style=&#34;color:rgb(104, 36, 149)&#34;&gt;mesiahuey@gmail.com&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -40,17 +40,17 @@
     
     <item>
       <title>bio</title>
-      <link>http://mesiahuey.com/bio/</link>
+      <link>http://mesiahuey.github.io/bio/</link>
       <pubDate>Sun, 24 Apr 2016 15:07:28 -0600</pubDate>
       
-      <guid>http://mesiahuey.com/bio/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://mesiahuey.com/css/bio.css&#34;&gt;
+      <guid>http://mesiahuey.github.io/bio/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://mesiahuey.github.io/css/bio.css&#34;&gt;
 
 &lt;div class=&#34;page_title&#34;&gt;bio&lt;/div&gt;
-&lt;a id=&#34;small_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;tiny_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/links&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;medium_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/contact&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;large_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/portfolio&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;small_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;tiny_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/links&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;medium_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/contact&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;large_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/portfolio&#34;&gt;&lt;/a&gt;
 &lt;div id=&#34;bio_pic&#34;&gt;&lt;/div&gt;
 &lt;div id=&#34;bio_quote_content&#34; class=&#34;background_filter&#34;&gt;
 	&lt;p&gt;&lt;span style=&#34;font-size:12px&#34;&gt;&lt;span style=&#34;font-family:trebuchet ms,helvetica,sans-serif&#34;&gt;&amp;quot;Every child is an artist. The problem is how to remain an artist once we grow up.&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -65,17 +65,17 @@
     
     <item>
       <title>links</title>
-      <link>http://mesiahuey.com/links/</link>
+      <link>http://mesiahuey.github.io/links/</link>
       <pubDate>Sun, 24 Apr 2016 00:02:17 -0600</pubDate>
       
-      <guid>http://mesiahuey.com/links/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://mesiahuey.com/css/links.css&#34;&gt;
+      <guid>http://mesiahuey.github.io/links/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://mesiahuey.github.io/css/links.css&#34;&gt;
 
 &lt;div class=&#34;page_title&#34;&gt;links&lt;/div&gt;
-&lt;a id=&#34;small_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;tiny_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/bio&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;medium_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/contact&#34;&gt;&lt;/a&gt;
-&lt;a id=&#34;large_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.com/portfolio&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;small_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;tiny_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/bio&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;medium_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/contact&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;large_leaf&#34; class=&#34;leaf_button&#34; href=&#34;http://mesiahuey.github.io/portfolio&#34;&gt;&lt;/a&gt;
 &lt;div id=&#34;links_content&#34; class=&#34;background_filter&#34;&gt;
 	&lt;p&gt;&lt;span style=&#34;font-family:trebuchet ms,helvetica,sans-serif&#34;&gt;&lt;span style=&#34;font-size:22px&#34;&gt;visit my blog:&lt;br /&gt;
 	&lt;a href=&#34;http://www.mesiahuey.blogspot.com&#34;&gt;&lt;span style=&#34;color:#682495&#34;&gt;www.mesiahuey.blogspot.com&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -87,28 +87,28 @@
     
     <item>
       <title>Sketchbook</title>
-      <link>http://mesiahuey.com/portfolio/sketchbook/</link>
+      <link>http://mesiahuey.github.io/portfolio/sketchbook/</link>
       <pubDate>Sun, 24 Apr 2016 15:19:40 -0600</pubDate>
       
-      <guid>http://mesiahuey.com/portfolio/sketchbook/</guid>
+      <guid>http://mesiahuey.github.io/portfolio/sketchbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fairy Tales And Scary Tales</title>
-      <link>http://mesiahuey.com/portfolio/fairy-tales-and-scary-tales/</link>
+      <link>http://mesiahuey.github.io/portfolio/fairy-tales-and-scary-tales/</link>
       <pubDate>Sun, 24 Apr 2016 22:05:42 -0600</pubDate>
       
-      <guid>http://mesiahuey.com/portfolio/fairy-tales-and-scary-tales/</guid>
+      <guid>http://mesiahuey.github.io/portfolio/fairy-tales-and-scary-tales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Illustrations</title>
-      <link>http://mesiahuey.com/portfolio/illustrations/</link>
+      <link>http://mesiahuey.github.io/portfolio/illustrations/</link>
       <pubDate>Sun, 24 Apr 2016 22:09:56 -0600</pubDate>
       
-      <guid>http://mesiahuey.com/portfolio/illustrations/</guid>
+      <guid>http://mesiahuey.github.io/portfolio/illustrations/</guid>
       <description></description>
     </item>
     
