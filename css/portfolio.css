@@ -1,0 +1,152 @@
+/**
+ * 	Styling for the bio page
+ */
+
+#main_content
+{ 
+	background-image: url("/images/finalbgport.jpg");
+}
+
+#back_button
+{
+	background-image: url("/images/backbutton.png");
+	position:absolute;
+	opacity:0.6;
+	height: 50px;
+	width:125px;
+	top:130px;
+	left:200px;
+	display: block;
+}
+
+#back_button:hover
+{
+	cursor:pointer;
+	opacity:0.5;
+}
+
+#tiny_leaf
+{
+	background-position: -319px -178px;
+}
+
+#small_leaf
+{
+	background-position: -290px -105px;
+}
+
+#medium_leaf
+{
+	background-position: -340px -265px;
+}
+
+#large_leaf
+{
+	background-position: -280px -560px;
+}
+
+#portfolio_table
+{
+	position:absolute;
+	top:200px;
+	left:300px;
+	width:650px;
+	text-align: center;
+}
+
+#portfolio_table a:hover {
+	opacity: 0.6;
+	cursor:pointer;
+}
+
+#portfolio_table a{
+	font-family: Georgia;
+	color:#682495 !important;
+	text-decoration:none;
+	font-size: 16px;
+}
+
+.portfolio_image{
+	width:150px;
+}
+
+#portfolio_container{
+	width: 750px;
+	position:absolute;
+	top:200px;
+	left:200px;
+	text-align:center;
+}
+
+#focused_image{
+	max-width:750px;
+	height:375px;
+}
+
+#slider_wrapper{
+	width:750px;
+	height:150px;
+	margin-top:30px;
+	position:relative;
+}
+
+.image_container{
+	height:60px;
+	overflow: hidden;
+	position:absolute;
+	top:0px;
+	transition: right .5s, opacity .5s, drop-shadow .5s;
+}
+
+.image_container img{
+	vertical-align: middle;
+}
+
+#left_slider{
+	right:562px;
+	background-image: url("/images/iconpattern.png");
+	width:26px;
+	height:46px;
+	background-position: -1240px -81px;
+	position:absolute;
+	top:12px;
+}
+
+#right_slider{
+	right:0px;
+	background-image: url("/images/iconpattern.png");
+	background-position: -1259px -129px;
+	top:12px;
+	position:absolute;
+	width:22px;
+	height:45px;
+}
+
+.slider_button:hover{
+	opacity:0.6;
+	cursor:pointer;
+}
+
+.slider_left{
+	right:392px;
+	top:5px !important;
+}
+
+.slider_middle{
+	right:212px !important;
+	height:70px !important;
+	box-shadow: 0px 0px 20px #682495;
+}
+
+.slider_middle img{
+	width:160px;
+}
+
+.slider_right{
+	right:42px;
+	top:5px !important;
+}
+
+.hidden{
+	opacity: 0.0;
+}

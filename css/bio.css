@@ -1,0 +1,61 @@
+/**
+ * 	Styling for the bio page
+ */
+
+#main_content
+{ 
+	background-image: url("/images/finalbghome.jpg");
+}
+
+#tiny_leaf
+{
+	background-position: -587px -192px;
+}
+
+#small_leaf
+{
+	background-position: -560px -122px;
+}
+
+#medium_leaf
+{
+	background-position: -611px -281px;
+}
+
+#large_leaf
+{
+	background-position: -549px -577px;
+}
+
+#bio_content
+{
+	width:405px;
+	z-index:1;
+	left:525px;
+	top:150px;
+	position:absolute;
+	padding:0px 10px 0px 10px;
+	opacity:0.8;
+}
+#bio_pic
+{
+	position:absolute;
+	top:125px;
+	left:225px;
+	background-image: url("/images/biopicfinal.jpg");
+	height:200px;
+	width:143px;
+	background-repeat:no-repeat;
+	box-shadow: 10px 10px 5px #b6a587;
+}
+
+#bio_quote_content
+{
+	width:260px;
+	z-index:1;
+	position:absolute;
+	top:400px;
+	left:200px;
+	padding:0px 20px 0px 20px;
+	opacity:0.8;
+}

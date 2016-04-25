@@ -1,0 +1,39 @@
+/**
+ * 	Styling for the links page
+ */
+
+#main_content
+{ 
+	background-image: url("/images/finalbghome.jpg");
+}
+
+#tiny_leaf
+{
+	background-position: -853px -194px;
+}
+
+#small_leaf
+{
+	background-position: -825px -125px;
+}
+
+#medium_leaf
+{
+	background-position: -876px -283px;
+}
+
+#large_leaf
+{
+	background-position: -816px -579px;
+}
+
+#links_content
+{
+	width:435px;
+	z-index:1;
+	left:350px;
+	top:150px;
+	position:absolute;
+	padding:0px 20px 0px 20px;
+	opacity:0.8;
+}

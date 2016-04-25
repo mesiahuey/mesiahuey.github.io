@@ -1,0 +1,39 @@
+/**
+ * 	Styling for the contact page
+ */
+
+#main_content
+{ 
+	background-image: url("/images/finalbghome.jpg");
+}
+
+#tiny_leaf
+{
+	background-position: -1125px -182px;
+}
+
+#small_leaf
+{
+	background-position: -1098px -112px;
+}
+
+#medium_leaf
+{
+	background-position: -1148px -271px;
+}
+
+#large_leaf
+{
+	background-position: -1088px -567px;
+}
+
+#contact_content
+{
+	width:460px;
+	z-index:1;
+	left:350px;
+	top:200px;
+	position:absolute;
+	padding:0px 20px 0px 20px;
+	opacity:0.8;
+}
